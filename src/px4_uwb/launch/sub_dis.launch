@@ -1,0 +1,12 @@
+<launch>
+
+	<node pkg="nlink_parser" type="linktrack" name="linktrack0" output="screen">
+		<param name="port_name" value="/dev/ttyCH343USB0" />
+		<param name="baud_rate" value="921600" />
+	</node>
+
+	<node pkg="nlink_example" type="sub_dis" name="sub_dis" output="screen">
+	</node>
+
+
+</launch>

@@ -1,0 +1,16 @@
+<launch>
+
+<group ns="uav2">
+
+	<node pkg="nlink_parser" type="linktrack" name="linktrack0" output="screen">
+		<param name="port_name" value="/dev/ttyCH343USB0" />
+		<param name="baud_rate" value="921600" />
+	</node>
+
+	<node pkg="px4_uwb" type="uwb_node" name="uwb_node" output="screen">
+	</node>
+
+</group>
+
+
+</launch>

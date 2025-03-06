@@ -1,0 +1,9 @@
+/home/amov/nooploop_ws/install/_setup_util.py
+/home/amov/nooploop_ws/install/env.sh
+/home/amov/nooploop_ws/install/setup.bash
+/home/amov/nooploop_ws/install/local_setup.bash
+/home/amov/nooploop_ws/install/setup.sh
+/home/amov/nooploop_ws/install/local_setup.sh
+/home/amov/nooploop_ws/install/setup.zsh
+/home/amov/nooploop_ws/install/local_setup.zsh
+/home/amov/nooploop_ws/install/.rosinstall

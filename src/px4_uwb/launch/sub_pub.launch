@@ -1,0 +1,16 @@
+<launch>
+	<node pkg="nlink_parser" type="linktrack" name="linktrack0" output="screen">
+		<param name="port_name" value="/dev/ttyCH343USB0" />
+		<param name="baud_rate" value="921600" />
+	</node>
+
+
+
+     <node pkg="px4_uwb" type="sub_pose_twist" name="sub_pose_twist" output="screen">
+	</node>
+
+	 <node pkg="px4_uwb" type="sub_pub_pro" name="sub_pub_pro" output="screen">
+	</node>
+
+
+</launch>

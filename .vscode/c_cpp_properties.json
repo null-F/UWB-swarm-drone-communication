@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/amov/nooploop_ws/devel/include/**",
+                "/home/amov/rplidar_ws/devel/include/**",
+                "/home/amov/Prometheus/devel/include/**",
+                "/home/amov/realsense_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/amov/Prometheus/Modules/planning/FilterPC/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/planner/bspline_opt/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/planner/drone_detect/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/planner/plan_manage/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/uav_simulator/mockamap/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/uav_simulator/Utils/multi_map_server/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/planner/path_searching/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/planner/plan_env/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/uav_simulator/Utils/pose_utils/include/**",
+                "/home/amov/Prometheus/Modules/control/include/**",
+                "/home/amov/Prometheus/Simulator/gazebo_simulator/include/**",
+                "/home/amov/Prometheus/Modules/planning/global_planning/include/**",
+                "/home/amov/Prometheus/Modules/planning/hybrid_astar/include/**",
+                "/home/amov/Prometheus/Modules/planning/local_planner/include/**",
+                "/home/amov/Prometheus/Modules/mission/include/**",
+                "/home/amov/Prometheus/Modules/planning/FastPlanner/plan_manage/include/**",
+                "/home/amov/Prometheus/Modules/planning/Utils/pose_utils/include/**",
+                "/home/amov/Prometheus/Modules/slam/include/**",
+                "/home/amov/Prometheus/Modules/ground_station/include/**",
+                "/home/amov/Prometheus/Modules/swarm_control/include/**",
+                "/home/amov/Prometheus/Modules/planning/swarm_planning/include/**",
+                "/home/amov/Prometheus/Modules/ugv_control/include/**",
+                "/home/amov/nooploop_ws/src/px4_uwb/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/uav_simulator/Utils/quadrotor_msgs/include/**",
+                "/home/amov/realsense_ws/src/realsense-ros/realsense2_camera/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/uav_simulator/so3_control/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/uav_simulator/so3_quadrotor_simulator/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/planner/traj_utils/include/**",
+                "/home/amov/Prometheus/Modules/ego_planner/ego-planner-swarm/src/uav_simulator/Utils/uav_utils/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
